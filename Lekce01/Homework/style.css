@@ -1,0 +1,52 @@
+table {
+    width: 100%;
+    max-width: 800px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+td {
+    border: 1px solid black;
+}
+
+.photo-td {
+    width: 420px;
+    height: 570px;
+    background: rgb(201, 201, 201);
+}
+
+.photo {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+
+.name-td {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    align-content: center;
+}
